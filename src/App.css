@@ -1,0 +1,17 @@
+form{
+  margin:80px 0px 0 80px;
+}
+
+input{
+border-color: coral;
+width: 20%;
+padding: 10px;
+border-radius: 20px;
+outline: none;
+font-size: large;
+}
+
+h5{
+  margin:80px 0px 0 80px;
+  font-size: large;
+}
